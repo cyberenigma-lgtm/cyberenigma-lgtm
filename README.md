@@ -1,5 +1,5 @@
 # 👑 NOXFERION // CYBERENIGMA SIV SYSTEM ARCHITECT
-> **Identity:** José Manuel Moreno (Noxferion) 🇪🇸  
+> **Identity:** José Manuel (Noxferion) 🇪🇸  
 > **Sovereign Authority Seal:** `0x4A4D4D43` (`*JMMC*`) | **Ring-0 Engine Code Signature:** `0x4359454E`  
 > **Infrastructure:** 100% Standalone Silicon · x86_64 Long Mode · Zero Host Runtime Dependencies
 
@@ -45,7 +45,7 @@ All architecture designs, formal grammars, and memory implementations are legall
 ## 📡 Live System Telemetry & Receipts
 
 ### 🏆 Core Architecture Trophies
-[![GitHub Trophy](https://vercel.app)](https://github.com)
+<img src="https://vercel.app" alt="Tofeos de Noxferion" />
 
 ### 📊 Metric Analysis Dashboard
 <p align="left">
@@ -54,7 +54,7 @@ All architecture designs, formal grammars, and memory implementations are legall
 </p>
 
 ### 📈 Contribution Streak Telemetry
-![Streak Info](https://herokuapp.com)
+<img src="https://herokuapp.com" alt="Streak de Commits" />
 
 ---
 
