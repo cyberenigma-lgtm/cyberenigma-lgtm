@@ -1,5 +1,5 @@
 # 👑 NOXFERION // CYBERENIGMA SIV SYSTEM ARCHITECT
-> **Identity:** José Manuel Moreno Cano (Noxferion) 🇪🇸  
+> **Identity:** José Manuel Moreno (Noxferion) 🇪🇸  
 > **Sovereign Authority Seal:** `0x4A4D4D43` (`*JMMC*`) | **Ring-0 Engine Code Signature:** `0x4359454E`  
 > **Infrastructure:** 100% Standalone Silicon · x86_64 Long Mode · Zero Host Runtime Dependencies
 
