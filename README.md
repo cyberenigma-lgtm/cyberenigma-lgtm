@@ -45,7 +45,7 @@ All architecture designs, formal grammars, and memory implementations are legall
 ## 📡 Live System Telemetry & Receipts
 
 ### 🏆 Core Architecture Trophies
-<img src="https://vercel.app" alt="Tofeos de Noxferion" />
+[![GitHub Trophy](https://vercel.app)](https://github.com)
 
 ### 📊 Metric Analysis Dashboard
 <p align="left">
