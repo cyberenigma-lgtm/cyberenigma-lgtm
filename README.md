@@ -1,7 +1,7 @@
 # <div align="center">👑 NOXFERION // CYBERENIGMA SIV SYSTEM ARCHITECT</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NEURO-OS%20GENESIS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-Metal%20Silicon%20Architecture%20%7C%20Cognitive%20Multi-Language%20Ecosystem&descSize=16&descAlignY=58" alt="NeuroOs Genesis Waving Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NEURO-OS%20GENESIS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-Metal%20Silicon%20Architecture%20%7C%20Cognitive%20Multi-Language%20Ecosystem&descSize=16&descAlignY=58" alt="Noxferion Header Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -55,7 +55,13 @@
 
 ### 📡 2. Radar Trigonométrico 1º Bachillerato: Motor Educativo y Simulación FPU
 <p align="center">
-  <img src="assets/radar_trig.png" alt="Radar Trigonométrico 1º Bachillerato Tecnológico" width="88%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(87, 209, 232, 0.45); border: 2px solid #57D1E8;"/>
+  <a href="https://cyberenigma-lgtm.github.io/CV-Noxferion/radar.html" target="_blank" title="Haz clic para abrir el simulador interactivo en vivo">
+    <img src="assets/radar_trig_thumb.png" alt="Radar Trigonométrico 1º Bachillerato - Clic para abrir simulador" width="55%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 245, 255, 0.45); border: 2px solid #57D1E8;"/>
+  </a>
+  <br><br>
+  <a href="https://cyberenigma-lgtm.github.io/CV-Noxferion/radar.html" target="_blank">
+    <img src="https://img.shields.io/badge/LANZAR_SIMULADOR-EN_VIVO_(WEB_%26_M%C3%93VIL)-005f73?style=for-the-badge&logo=html5&logoColor=white" alt="Lanzar Simulador en Vivo"/>
+  </a>
 </p>
 <p align="center">
   <i>Binario nativo ultra-optimizado (64 KB Win32 / Web Móvil) con FPU x87 directa (<code>fsincos</code>), banco interactivo de 20 problemas de examen de 1º de Bachillerato, panel dinámico de teoría de cuadrantes y conmutación bilingüe Español / Chino (UPL + MultiLang-ASM).</i>
