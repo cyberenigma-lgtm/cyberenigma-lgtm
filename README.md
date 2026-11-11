@@ -1,26 +1,24 @@
 # <div align="center">👑 NOXFERION // CYBERENIGMA SIV SYSTEM ARCHITECT</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1B2E,2D2A3D,3D3459,57D1E8&height=220&section=header&text=NEURO-OS%20GENESIS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-Metal%20Silicon%20Architecture%20%7C%20Cognitive%20Multi-Language%20Ecosystem&descSize=16&descAlignY=58" alt="Noxferion Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NEURO-OS%20GENESIS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-Metal%20Silicon%20Architecture%20%7C%20Cognitive%20Multi-Language%20Ecosystem&descSize=16&descAlignY=58" alt="NeuroOs Genesis Waving Banner" width="100%"/>
 </div>
 
-<br>
+<div align="center">
 
-  <br><br>
-
-  [![Propiedad Industrial](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_REGISTRADA_%22NeuroOs_Genesis%22-57D1E8?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/cyberenigma-lgtm)
-  [![Authority Seal](https://img.shields.io/badge/AUTHORITY_SEAL-0x4A4D4D43_(*JMMC*)-gold?style=for-the-badge&logo=shield)](https://github.com/cyberenigma-lgtm)
-  [![Kernel Signature](https://img.shields.io/badge/RING--0_SIGNATURE-0x4359454E-red?style=for-the-badge&logo=cpu)](https://github.com/cyberenigma-lgtm)
+  [![Propiedad Industrial](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_REGISTRADA_%22NeuroOs_Genesis%22-005f73?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/cyberenigma-lgtm)
+  [![Authority Seal](https://img.shields.io/badge/AUTHORITY_SEAL-0x4A4D4D43_(*JMMC*)-8A6208?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/cyberenigma-lgtm)
+  [![Kernel Signature](https://img.shields.io/badge/RING--0_SIGNATURE-0x4359454E-9A1B1B?style=for-the-badge&logo=cpu&logoColor=white)](https://github.com/cyberenigma-lgtm)
   <br>
-  [![Safe Creative 1](https://img.shields.io/badge/SAFE_CREATIVE-2609217054592-00ffff?style=for-the-badge&logo=vault)](https://www.safecreative.org)
-  [![Safe Creative 2](https://img.shields.io/badge/SAFE_CREATIVE-2610197364465-9b59b6?style=for-the-badge&logo=vault)](https://www.safecreative.org)
+  [![Safe Creative 1](https://img.shields.io/badge/SAFE_CREATIVE-2609217054592-00688B?style=for-the-badge&logo=vault&logoColor=white)](https://www.safecreative.org)
+  [![Safe Creative 2](https://img.shields.io/badge/SAFE_CREATIVE-2610197364465-5A189A?style=for-the-badge&logo=vault&logoColor=white)](https://www.safecreative.org)
 
   <br><br>
 
-  [![Language UPL](https://img.shields.io/badge/Language-UPL+-10e89e?style=flat-square&logo=c&logoColor=white)](https://github.com/cyberenigma-lgtm/UNIVERSAL-POLYGLOT-LAYER-UPL)
-  [![Architecture](https://img.shields.io/badge/Arch-x86__64_Long_Mode-57D1E8?style=flat-square&logo=linux&logoColor=black)](https://github.com/cyberenigma-lgtm)
-  [![Execution](https://img.shields.io/badge/Execution-Zero_Host_Runtime-brightgreen?style=flat-square&logo=target)](https://github.com/cyberenigma-lgtm)
-  [![Interactive CV](https://img.shields.io/badge/Curriculum-Live_Interactive_CV-blueviolet?style=flat-square&logo=html5)](https://cyberenigma-lgtm.github.io/CV-Noxferion/)
+  [![Language UPL](https://img.shields.io/badge/Language-UPL+-0E5A44?style=flat-square&logo=c&logoColor=white)](https://github.com/cyberenigma-lgtm/UNIVERSAL-POLYGLOT-LAYER-UPL)
+  [![Architecture](https://img.shields.io/badge/Arch-x86__64_Long_Mode-1A365D?style=flat-square&logo=linux&logoColor=white)](https://github.com/cyberenigma-lgtm)
+  [![Execution](https://img.shields.io/badge/Execution-Zero_Host_Runtime-1B5E20?style=flat-square&logo=target&logoColor=white)](https://github.com/cyberenigma-lgtm)
+  [![Interactive CV](https://img.shields.io/badge/Curriculum-Live_Interactive_CV-3B185F?style=flat-square&logo=html5&logoColor=white)](https://cyberenigma-lgtm.github.io/CV-Noxferion/)
 
   <br>
 
@@ -124,10 +122,10 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/BRAND-NEUROOS_GENESIS_IDENTITY-57D1E8?style=for-the-badge&logo=shield&logoColor=black" />
-  <img src="https://img.shields.io/badge/AESTHETIC-80s_SYNTHWAVE_OUTRUN-FF007F?style=for-the-badge&logo=soundcharts&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEMOSCENE-64KB_INTRO_SPIRIT-FFD700?style=for-the-badge&logo=atari&logoColor=black" />
-  <img src="https://img.shields.io/badge/HARDWARE-MOTOROLA_68000_VIBES-00E5FF?style=for-the-badge&logo=commodore&logoColor=black" />
+  <img src="https://img.shields.io/badge/BRAND-NEUROOS_GENESIS_IDENTITY-005f73?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/AESTHETIC-80s_SYNTHWAVE_OUTRUN-880e4f?style=for-the-badge&logo=soundcharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEMOSCENE-64KB_INTRO_SPIRIT-8A6208?style=for-the-badge&logo=atari&logoColor=white" />
+  <img src="https://img.shields.io/badge/HARDWARE-MOTOROLA_68000_VIBES-00688B?style=for-the-badge&logo=commodore&logoColor=white" />
 </div>
 
 </td>
