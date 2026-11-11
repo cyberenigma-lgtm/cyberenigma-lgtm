@@ -1,16 +1,14 @@
 # <div align="center">👑 NOXFERION // CYBERENIGMA SIV SYSTEM ARCHITECT</div>
 
 <div align="center">
-  <img src="assets/neuro_os_banner_hd.jpg" alt="NEURO-OS Genesis Official Widescreen Silicon Banner" width="100%" style="border-radius: 14px; box-shadow: 0 12px 40px rgba(87, 209, 232, 0.35); border: 1px solid rgba(87, 209, 232, 0.4);"/>
+  <img src="assets/neuro_banner_circuit_animated.gif" alt="NeuroOs Genesis Official Animated Neural Circuit Banner" width="100%" style="border-radius: 16px; box-shadow: 0 12px 40px rgba(87, 209, 232, 0.45); border: 2px solid #57D1E8;"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="assets/neuro_os_emblem_hd.jpg" width="220" style="border-radius: 24px; border: 3px solid #57D1E8; box-shadow: 0 0 35px rgba(87, 209, 232, 0.65);" alt="NEURO-OS Registered Official Emblem"/>
-  <br><br>
 
-  [![Registered Trademark](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_%26_LOGO_REGISTRADO-57D1E8?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/cyberenigma-lgtm)
+  [![Propiedad Industrial](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_REGISTRADA_%22NeuroOs_Genesis%22-57D1E8?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/cyberenigma-lgtm)
   [![Authority Seal](https://img.shields.io/badge/AUTHORITY_SEAL-0x4A4D4D43_(*JMMC*)-gold?style=for-the-badge&logo=shield)](https://github.com/cyberenigma-lgtm)
   [![Kernel Signature](https://img.shields.io/badge/RING--0_SIGNATURE-0x4359454E-red?style=for-the-badge&logo=cpu)](https://github.com/cyberenigma-lgtm)
   <br>
@@ -126,7 +124,7 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/BRAND-CYBERENIGMA_IDENTITY-57D1E8?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/BRAND-NEUROOS_GENESIS_IDENTITY-57D1E8?style=for-the-badge&logo=shield&logoColor=black" />
   <img src="https://img.shields.io/badge/AESTHETIC-80s_SYNTHWAVE_OUTRUN-FF007F?style=for-the-badge&logo=soundcharts&logoColor=white" />
   <img src="https://img.shields.io/badge/DEMOSCENE-64KB_INTRO_SPIRIT-FFD700?style=for-the-badge&logo=atari&logoColor=black" />
   <img src="https://img.shields.io/badge/HARDWARE-MOTOROLA_68000_VIBES-00E5FF?style=for-the-badge&logo=commodore&logoColor=black" />
@@ -248,8 +246,8 @@ graph TD
 
 ## <div align="center">🏛️ Legal & Co-Design Declaration / Marco Técnico y Legal</div>
 
-* **EN:** **Neuro-Architect Paradigm:** This full-stack ecosystem represents a new horizon in systems development. Memory maps, physical register configurations, interrupt descriptor tables (IDT), PCI driver layouts, and multi-language syntaxes are structurally conceptualized by **José Manuel Moreno Cano (Noxferion)** and orchestrated with advanced AI cognitive copilots. Dual-bank parity persistence algorithms, binary translation layers, and compiler pipelines are protected under international intellectual property registries and registered trademark/industrial brand protection.
-* **ES:** **Paradigma de Co-Diseño Neuronal:** Todo este ecosistema representa una redefinición en el desarrollo de sistemas operativos y compiladores. Los mapas de memoria, diseño de bajo nivel, gestión de interrupciones, configuración PCI y sintaxis lingüísticas son concebidos por **José Manuel Moreno Cano (Noxferion)** y materializados mediante orquestación avanzada de IA. Las herramientas, motores de paridad, siluetas, marcas y compiladores están amparados bajo registros formales de propiedad intelectual e industrial.
+* **EN:** **Neuro-Architect Paradigm:** This full-stack ecosystem represents a new horizon in systems development. Memory maps, physical register configurations, interrupt descriptor tables (IDT), PCI driver layouts, and multi-language syntaxes are structurally conceptualized by **José Manuel Moreno Cano (Noxferion)** and orchestrated with advanced AI cognitive copilots. Dual-bank parity persistence algorithms, binary translation layers, and compiler pipelines are protected under international intellectual property registries and official industrial property registration: **"NeuroOs Genesis"**.
+* **ES:** **Paradigma de Co-Diseño Neuronal:** Todo este ecosistema representa una redefinición en el desarrollo de sistemas operativos y compiladores. Los mapas de memoria, diseño de bajo nivel, gestión de interrupciones, configuración PCI y sintaxis lingüísticas son concebidos por **José Manuel Moreno Cano (Noxferion)** y materializados mediante orquestación avanzada de IA. Las herramientas, motores de paridad, compiladores y signos distintivos están amparados bajo registros formales de propiedad intelectual y registro de propiedad industrial de marca: **"NeuroOs Genesis"**.
 
 <br>
 
@@ -260,7 +258,7 @@ graph TD
   [![WhatsApp Direct](https://img.shields.io/badge/WhatsApp-Contact_Direct-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/34630189616)
   
   <br><br>
-  <code>[ HOST RUNTIME TERMINATED // BRAND IDENTITY SEALED: 0x4A4D4D43 // exit 0 ]</code>
+  <code>[ HOST RUNTIME TERMINATED // REGISTERED TRADEMARK: "NeuroOs Genesis" // AUTHORITY: 0x4A4D4D43 // exit 0 ]</code>
 </div>
 
 </td>
