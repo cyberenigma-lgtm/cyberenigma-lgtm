@@ -21,7 +21,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🖥️ Live Silicon Showcase / Capturas en Tiempo Real
 
@@ -39,7 +39,7 @@ Demostración visual y evidencia de ingeniería ejecutándose sobre hardware y e
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
 
 <br>
 
@@ -53,7 +53,7 @@ Demostración visual y evidencia de ingeniería ejecutándose sobre hardware y e
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
 
 <br>
 
@@ -67,7 +67,7 @@ Demostración visual y evidencia de ingeniería ejecutándose sobre hardware y e
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🕹️ Retro Silicon Heritage & 70s/80s Arcade Matrix / Miscelánea Adaptativa
 
@@ -112,7 +112,7 @@ Demostración visual y evidencia de ingeniería ejecutándose sobre hardware y e
   <img src="https://img.shields.io/badge/HARDWARE-MOTOROLA_68000_VIBES-00E5FF?style=for-the-badge&logo=commodore&logoColor=black" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔮 Core Architecture / Arquitectura de la Matriz
 
@@ -150,7 +150,7 @@ graph TD
     end
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Infrastructure Specification / Ficha Técnica del Ecosistema
 
@@ -163,7 +163,7 @@ graph TD
 | **Storage Engine** | GXNOX-v3.0 Micro-FS | Propietaria / Closed | 🟢 sub-20 µs Parity | Safe Creative ID: `2610197364465` |
 | **Visual Transport**| TITAN Apocalypse Engine| Commercial Protection | 🟢 240+ FPS Stable Matrix| DVTRGA-30 / Linear Framebuffer |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📡 Live System Telemetry / Recibo de Ejecución Modular
 
@@ -190,7 +190,7 @@ graph TD
 =======================================================================
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏛️ Legal & Co-Design Declaration / Marco Técnico y Legal
 
@@ -205,6 +205,7 @@ graph TD
   [![Interactive Portfolio CV](https://img.shields.io/badge/Interactive_CV-Noxferion_Portfolio-0A66C2?style=for-the-badge&logo=react)](https://cyberenigma-lgtm.github.io/CV-Noxferion/)
   [![WhatsApp Direct](https://img.shields.io/badge/WhatsApp-Contact_Direct-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/34630189616)
   
-  <br>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=100&section=footer" width="100%"/>
   <code>[ HOST RUNTIME TERMINATED // AUTHORITY: 0x4A4D4D43 // exit 0 ]</code>
 </div>
