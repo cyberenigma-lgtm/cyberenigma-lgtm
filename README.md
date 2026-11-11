@@ -1,12 +1,13 @@
 # <div align="center">👑 NOXFERION // CYBERENIGMA SIV SYSTEM ARCHITECT</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1B2E,2D2A3D,3D3459,57D1E8&height=220&section=header&text=NEURO-OS%20GENESIS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-Metal%20Silicon%20Architecture%20%7C%20Cognitive%20Multi-Language%20Ecosystem&descSize=16&descAlignY=58" alt="Noxferion Header Banner" width="100%"/>
+  <img src="assets/neuro_os_banner_hd.jpg" alt="NEURO-OS Genesis Official Widescreen Silicon Banner" width="100%" style="border-radius: 14px; box-shadow: 0 12px 40px rgba(87, 209, 232, 0.35); border: 1px solid rgba(87, 209, 232, 0.4);"/>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
-  <img src="https://avatars.githubusercontent.com/u/224306684?v=4" width="130" style="border-radius: 50%; border: 3px solid #57D1E8; box-shadow: 0 0 30px rgba(87, 209, 232, 0.65);" alt="Noxferion Registered Brand Logo"/>
+  <img src="assets/neuro_os_emblem_hd.jpg" width="220" style="border-radius: 24px; border: 3px solid #57D1E8; box-shadow: 0 0 35px rgba(87, 209, 232, 0.65);" alt="NEURO-OS Registered Official Emblem"/>
   <br><br>
 
   [![Registered Trademark](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_%26_LOGO_REGISTRADO-57D1E8?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/cyberenigma-lgtm)
@@ -247,7 +248,7 @@ graph TD
 
 ## <div align="center">🏛️ Legal & Co-Design Declaration / Marco Técnico y Legal</div>
 
-* **EN:** **Neuro-Architect Paradigm:** This full-stack ecosystem represents a new horizon in systems development. Memory maps, physical register configurations, interrupt descriptor tables (IDT), PCI driver layouts, and multi-language syntaxes are structurally conceptualized by **José Manuel Moreno Cano (Noxferion)** and orchestrated with advanced AI cognitive copilots. Dual-bank parity persistence algorithms, binary translation layers, and compiler pipelines are protected under international intellectual property registries and brand identity protection.
+* **EN:** **Neuro-Architect Paradigm:** This full-stack ecosystem represents a new horizon in systems development. Memory maps, physical register configurations, interrupt descriptor tables (IDT), PCI driver layouts, and multi-language syntaxes are structurally conceptualized by **José Manuel Moreno Cano (Noxferion)** and orchestrated with advanced AI cognitive copilots. Dual-bank parity persistence algorithms, binary translation layers, and compiler pipelines are protected under international intellectual property registries and registered trademark/industrial brand protection.
 * **ES:** **Paradigma de Co-Diseño Neuronal:** Todo este ecosistema representa una redefinición en el desarrollo de sistemas operativos y compiladores. Los mapas de memoria, diseño de bajo nivel, gestión de interrupciones, configuración PCI y sintaxis lingüísticas son concebidos por **José Manuel Moreno Cano (Noxferion)** y materializados mediante orquestación avanzada de IA. Las herramientas, motores de paridad, siluetas, marcas y compiladores están amparados bajo registros formales de propiedad intelectual e industrial.
 
 <br>
@@ -259,7 +260,6 @@ graph TD
   [![WhatsApp Direct](https://img.shields.io/badge/WhatsApp-Contact_Direct-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/34630189616)
   
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1B2E,2D2A3D,3D3459,57D1E8&height=100&section=footer" width="100%"/>
   <code>[ HOST RUNTIME TERMINATED // BRAND IDENTITY SEALED: 0x4A4D4D43 // exit 0 ]</code>
 </div>
 
