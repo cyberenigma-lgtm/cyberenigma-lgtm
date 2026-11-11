@@ -1,12 +1,14 @@
 # <div align="center">👑 NOXFERION // CYBERENIGMA SIV SYSTEM ARCHITECT</div>
 
 <div align="center">
-  <img src="assets/neuro_banner_circuit_animated.gif" alt="NeuroOs Genesis Official Animated Neural Circuit Banner" width="100%" style="border-radius: 16px; box-shadow: 0 12px 40px rgba(87, 209, 232, 0.45); border: 2px solid #57D1E8;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E1B2E,2D2A3D,3D3459,57D1E8&height=220&section=header&text=NEURO-OS%20GENESIS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-Metal%20Silicon%20Architecture%20%7C%20Cognitive%20Multi-Language%20Ecosystem&descSize=16&descAlignY=58" alt="Noxferion Header Banner" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
+  <img src="assets/neuro_os_emblem_hd.jpg" width="220" style="border-radius: 24px; border: 3px solid #57D1E8; box-shadow: 0 0 35px rgba(87, 209, 232, 0.65);" alt="NEURO-OS Registered Official Emblem"/>
+  <br><br>
 
   [![Propiedad Industrial](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_REGISTRADA_%22NeuroOs_Genesis%22-57D1E8?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/cyberenigma-lgtm)
   [![Authority Seal](https://img.shields.io/badge/AUTHORITY_SEAL-0x4A4D4D43_(*JMMC*)-gold?style=for-the-badge&logo=shield)](https://github.com/cyberenigma-lgtm)
