@@ -6,8 +6,6 @@
 
 <br>
 
-<div align="center">
-  <img src="assets/neuro_os_emblem_hd.jpg" width="220" style="border-radius: 24px; border: 3px solid #57D1E8; box-shadow: 0 0 35px rgba(87, 209, 232, 0.65);" alt="NEURO-OS Registered Official Emblem"/>
   <br><br>
 
   [![Propiedad Industrial](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_REGISTRADA_%22NeuroOs_Genesis%22-57D1E8?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/cyberenigma-lgtm)
