@@ -1,0 +1,34 @@
+name: Agradecer Nuevo Seguidor // Welcome Follower
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 4 horas
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ejecutar script de seguimiento
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/welcome_follower.py
+
+      - name: Guardar cambios en el README
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md followers.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 [Bot] Gracias por seguirme / Welcome latest follower" && git push)

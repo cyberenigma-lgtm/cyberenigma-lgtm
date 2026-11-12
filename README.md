@@ -19,11 +19,24 @@
   [![Architecture](https://img.shields.io/badge/Arch-x86__64_Long_Mode-1A365D?style=flat-square&logo=linux&logoColor=white)](https://github.com/cyberenigma-lgtm)
   [![Execution](https://img.shields.io/badge/Execution-Zero_Host_Runtime-1B5E20?style=flat-square&logo=target&logoColor=white)](https://github.com/cyberenigma-lgtm)
   [![Interactive CV](https://img.shields.io/badge/Curriculum-Live_Interactive_CV-3B185F?style=flat-square&logo=html5&logoColor=white)](https://cyberenigma-lgtm.github.io/CV-Noxferion/)
+  [![Followers](https://img.shields.io/github/followers/cyberenigma-lgtm?label=Followers&style=flat-square&logo=github&color=57D1E8&logoColor=white)](https://github.com/cyberenigma-lgtm?tab=followers)
 
   <br>
 
   **100% Co-Diseño Neuronal Extremo · x86_64 Long Mode · Zero Host Runtime Dependencies**  
   *"Ship fast. Learn faster. Dissect silicon. Humanize the machine."*
+
+  <br>
+
+  ### 📡 Último seguidor conectado // Latest Follower Connected
+<!-- START_FOLLOWER -->
+<div align="center">
+
+> <img src="https://github.com/amingholipoor5327-oss.png?size=64" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/> 🇪🇸 **¡Gracias por seguirme, [@amingholipoor5327-oss](https://github.com/amingholipoor5327-oss)!** 🤝<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 **Thank you for following me, [@amingholipoor5327-oss](https://github.com/amingholipoor5327-oss)!** 🤝
+
+</div>
+<!-- END_FOLLOWER -->
 
 </div>
 
