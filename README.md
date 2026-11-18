@@ -32,8 +32,8 @@
 <!-- START_FOLLOWER -->
 <div align="center">
 
-> <img src="https://github.com/xabierlameiro.png?size=64" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/> 🇪🇸 **¡Gracias por seguirme, [@xabierlameiro](https://github.com/xabierlameiro)!** 🤝<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 **Thank you for following me, [@xabierlameiro](https://github.com/xabierlameiro)!** 🤝
+> <img src="https://github.com/Ivan-olivera-dev.png?size=64" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/> 🇪🇸 **¡Gracias por seguirme, [@Ivan-olivera-dev](https://github.com/Ivan-olivera-dev)!** 🤝<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 **Thank you for following me, [@Ivan-olivera-dev](https://github.com/Ivan-olivera-dev)!** 🤝
 
 </div>
 <!-- END_FOLLOWER -->
