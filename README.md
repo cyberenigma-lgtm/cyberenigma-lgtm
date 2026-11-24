@@ -12,6 +12,7 @@
   <br>
   [![Safe Creative 1](https://img.shields.io/badge/SAFE_CREATIVE-2609217054592-00688B?style=for-the-badge&logo=vault&logoColor=white)](https://www.safecreative.org)
   [![Safe Creative 2](https://img.shields.io/badge/SAFE_CREATIVE-2610197364465-5A189A?style=for-the-badge&logo=vault&logoColor=white)](https://www.safecreative.org)
+  [![Safe Creative 3](https://img.shields.io/badge/SAFE_CREATIVE-2611247743117-00B4D8?style=for-the-badge&logo=vault&logoColor=white)](https://www.safecreative.org/work/2611247743117)
 
   <br><br>
 
@@ -238,7 +239,7 @@ graph TD
 | **NeuroCOBOL-V3.0** | Cognitive Logic Compiler | Registered / Registrada | 🟢 154 Langs Active | Safe Creative ID: `2609217054592` |
 | **Storage Engine** | GXNOX-v3.0 Micro-FS | Propietaria / Closed | 🟢 sub-20 µs Parity | Safe Creative ID: `2610197364465` |
 | **Visual Transport**| TITAN Apocalypse Engine| Commercial Protection | 🟢 240+ FPS Stable Matrix| DVTRGA-30 / Linear Framebuffer |
-| **NeuroWeb-Boot x64**| WebAssembly + MMIO Bridge| Sovereign Web Runtime | 🟢 Live Interactive Demo| Wasm x86_64 LFB Canvas, Streaming ISO |
+| **NeuroWeb-Boot x64**| WebAssembly + MMIO Bridge| Registered / Sovereign | 🟢 Live Interactive Demo| Safe Creative ID: 2611247743117 |
 
 </td>
 </tr>
