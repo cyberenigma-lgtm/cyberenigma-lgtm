@@ -19,6 +19,7 @@
   [![Architecture](https://img.shields.io/badge/Arch-x86__64_Long_Mode-1A365D?style=flat-square&logo=linux&logoColor=white)](https://github.com/cyberenigma-lgtm)
   [![Execution](https://img.shields.io/badge/Execution-Zero_Host_Runtime-1B5E20?style=flat-square&logo=target&logoColor=white)](https://github.com/cyberenigma-lgtm)
   [![Interactive CV](https://img.shields.io/badge/Curriculum-Live_Interactive_CV-3B185F?style=flat-square&logo=html5&logoColor=white)](https://cyberenigma-lgtm.github.io/CV-Noxferion/)
+  [![Live Web Demo](https://img.shields.io/badge/Live_Demo-WebAssembly_x86__64-00E5FF?style=flat-square&logo=googlechrome&logoColor=black)](https://cyberenigma-lgtm.github.io/neuro-os-live-demo/)
   [![Followers](https://img.shields.io/github/followers/cyberenigma-lgtm?label=Followers&style=flat-square&logo=github&color=57D1E8&logoColor=white)](https://github.com/cyberenigma-lgtm?tab=followers)
 
   <br>
@@ -54,7 +55,29 @@
 
 <div align="center">
 
-### 🌌 1. NEURO-OS Genesis: Cubo 3D Compiz y Matriz Bare-Metal (Long Mode Ring-0)
+### 🚀 1. NEURO-OS Genesis: Pre-Alpha Live Demo Interactiva (WebAssembly x86_64)
+<p align="center">
+  <a href="https://cyberenigma-lgtm.github.io/neuro-os-live-demo/" target="_blank" title="Haz clic para abrir la Demo Interactiva en vivo en el navegador">
+    <img src="assets/live_demo_showcase.png" alt="NEURO-OS Genesis Live Demo WebAssembly" width="88%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 229, 255, 0.45); border: 2px solid #00e5ff;"/>
+  </a>
+  <br><br>
+  <a href="https://cyberenigma-lgtm.github.io/neuro-os-live-demo/" target="_blank">
+    <img src="https://img.shields.io/badge/PROBAR_DEMO_EN_VIVO-WEBASSEMBLY_x86__64-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Probar Demo en Vivo en el Navegador"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/cyberenigma-lgtm/neuro-os-live-demo" target="_blank">
+    <img src="https://img.shields.io/badge/REPOSITORIO_DEMO-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub Live Demo"/>
+  </a>
+</p>
+<p align="center">
+  <i>Arranque real en Long Mode 64-bit del kernel bare-metal (~515 KB) emulado en el navegador mediante WebAssembly (v64). Entorno soberano con Top Dock GXHTML con halos de neón, motor gráfico vectorial DVTRGAS-30 y Quartz Compositor blitteando a LFB VBE (1280x720@32bpp), barra de tareas workstation y consola serie COM1 con telemetría Ring-0 en tiempo real.</i>
+</p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+<br>
+
+### 🌌 2. NEURO-OS Genesis: Cubo 3D Compiz y Matriz Bare-Metal (Long Mode Ring-0)
 <p align="center">
   <img src="assets/neuro_os_3d.png" alt="NEURO-OS Genesis 3D Compiz Cube Bare-Metal" width="88%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(87, 209, 232, 0.45); border: 2px solid #57D1E8;"/>
 </p>
@@ -66,7 +89,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
 <br>
 
-### 📡 2. Radar Trigonométrico 1º Bachillerato: Motor Educativo y Simulación FPU
+### 📡 3. Radar Trigonométrico 1º Bachillerato: Motor Educativo y Simulación FPU
 <p align="center">
   <a href="https://cyberenigma-lgtm.github.io/CV-Noxferion/radar.html" target="_blank" title="Haz clic para abrir el simulador interactivo en vivo">
     <img src="assets/radar_trig_thumb.png" alt="Radar Trigonométrico 1º Bachillerato - Clic para abrir simulador" width="55%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 245, 255, 0.45); border: 2px solid #57D1E8;"/>
@@ -84,7 +107,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
 <br>
 
-### 🪐 3. Sovereign Stellar Desktop: Entorno de Composición GXHTML
+### 🪐 4. Sovereign Stellar Desktop: Entorno de Composición GXHTML
 <p align="center">
   <img src="assets/stellar_desktop.png" alt="Sovereign Stellar Desktop Workspace" width="88%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(87, 209, 232, 0.45); border: 2px solid #57D1E8;"/>
 </p>
