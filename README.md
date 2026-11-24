@@ -238,6 +238,7 @@ graph TD
 | **NeuroCOBOL-V3.0** | Cognitive Logic Compiler | Registered / Registrada | 🟢 154 Langs Active | Safe Creative ID: `2609217054592` |
 | **Storage Engine** | GXNOX-v3.0 Micro-FS | Propietaria / Closed | 🟢 sub-20 µs Parity | Safe Creative ID: `2610197364465` |
 | **Visual Transport**| TITAN Apocalypse Engine| Commercial Protection | 🟢 240+ FPS Stable Matrix| DVTRGA-30 / Linear Framebuffer |
+| **NeuroWeb-Boot x64**| WebAssembly + MMIO Bridge| Sovereign Web Runtime | 🟢 Live Interactive Demo| Wasm x86_64 LFB Canvas, Streaming ISO |
 
 </td>
 </tr>
@@ -266,6 +267,9 @@ graph TD
 [DISPLAY ENGINE] Bochs VBE Linear Framebuffer Switch:
                  -> Current Mode: 1280x720x32 (Dynamic 16:9 Multi-Res)
                  -> Compiz 3D Cube: 6 Faces Loaded (240 FPS Target)
+[NEUROWASM-BOOT] WebAssembly x86_64 ISO Streaming & LFB Bridge...
+                 -> MMIO LFB: 0xFD000000 -> HTML5 Canvas (30/60 FPS) [OK]
+                 -> COM1 Serial Telemetry Stream -> Browser WebUI... [OK]
 [ABI DISPATCH]   Loading authentic Multi-OS packages into ATA disk...
                  -> Signature Detected: 0x5A4D (MZ - Windows PE64)
                  -> Execution Slot 3 Active // CPU Return RAX = 0x42
