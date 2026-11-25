@@ -34,8 +34,8 @@
 <!-- START_FOLLOWER -->
 <div align="center">
 
-> <img src="https://github.com/bahattinyunus.png?size=64" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/> 🇪🇸 **¡Gracias por seguirme, [@bahattinyunus](https://github.com/bahattinyunus)!** 🤝<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 **Thank you for following me, [@bahattinyunus](https://github.com/bahattinyunus)!** 🤝
+> <img src="https://github.com/Nai64.png?size=64" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/> 🇪🇸 **¡Gracias por seguirme, [@Nai64](https://github.com/Nai64)!** 🤝<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 **Thank you for following me, [@Nai64](https://github.com/Nai64)!** 🤝
 
 </div>
 <!-- END_FOLLOWER -->
