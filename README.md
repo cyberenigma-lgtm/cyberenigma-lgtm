@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NEURO-OS%20GENESIS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-Metal%20Silicon%20Architecture%20%7C%20Cognitive%20Multi-Language%20Ecosystem&descSize=16&descAlignY=58" alt="Noxferion Header Banner" width="100%"/>
 </div>
-[![GH-Bot-Radar](https://img.shields.io/badge/GH--Bot--Radar-100%25%20Authentic%20Human%20%7C%20Scan%20Followers-10b981?style=for-the-badge&logo=github)](https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm)
-<div align="center">
+ 
+ <div align="center">
 
   [![Propiedad Industrial](https://img.shields.io/badge/PROPIEDAD_INDUSTRIAL-MARCA_REGISTRADA_%22NeuroOs_Genesis%22-005f73?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/cyberenigma-lgtm)
   [![Authority Seal](https://img.shields.io/badge/AUTHORITY_SEAL-0x4A4D4D43_(*JMMC*)-8A6208?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/cyberenigma-lgtm)
