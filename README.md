@@ -21,6 +21,7 @@
   [![Execution](https://img.shields.io/badge/Execution-Zero_Host_Runtime-1B5E20?style=flat-square&logo=target&logoColor=white)](https://github.com/cyberenigma-lgtm)
   [![Interactive CV](https://img.shields.io/badge/Curriculum-Live_Interactive_CV-3B185F?style=flat-square&logo=html5&logoColor=white)](https://cyberenigma-lgtm.github.io/CV-Noxferion/)
   [![Live Web Demo](https://img.shields.io/badge/Live_Demo-WebAssembly_x86__64-00E5FF?style=flat-square&logo=googlechrome&logoColor=black)](https://cyberenigma-lgtm.github.io/neuro-os-live-demo/)
+  [![GH-Bot-Radar](https://img.shields.io/badge/GH--Bot--Radar-Anti--Bot_%26_5--Day_WASM-10b981?style=flat-square&logo=github&logoColor=white)](https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm)
   [![Followers](https://img.shields.io/github/followers/cyberenigma-lgtm?label=Followers&style=flat-square&logo=github&color=57D1E8&logoColor=white)](https://github.com/cyberenigma-lgtm?tab=followers)
 
   <br>
@@ -114,6 +115,28 @@
 </p>
 <p align="center">
   <i>Espacio de trabajo plano con efectos de cristal translúcido (Glassmorphism), dock reactivo con esquinas redondeadas (squircles), monitor de recursos hardware en vivo y visor de módulos de persistencia GXNOX.</i>
+</p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+<br>
+
+### 🛰️ 5. GH-Bot-Radar: Radar Anti-Bots & Vigilancia Conductual 5 Días (UPL+ / WebAssembly)
+<p align="center">
+  <a href="https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm" target="_blank" title="Haz clic para abrir el Radar Anti-Bots en vivo en el navegador">
+    <img src="assets/banner_gh_bot_radar.jpg" alt="GH-Bot-Radar Anti-Bot & 5-Day Behavioral Engine" width="88%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 229, 255, 0.45); border: 2px solid #00e5ff;"/>
+  </a>
+  <br><br>
+  <a href="https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm" target="_blank">
+    <img src="https://img.shields.io/badge/ABRIR_RADAR_EN_VIVO-WEBASSEMBLY_807B-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir GH-Bot-Radar en Vivo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/cyberenigma-lgtm/gh-bot-radar" target="_blank">
+    <img src="https://img.shields.io/badge/REPOSITORIO_%26_CLI_NATIVO-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GH-Bot-Radar"/>
+  </a>
+</p>
+<p align="center">
+  <i>Herramienta abierta de telemetría consultiva escrita en <b>UPL+ v2.3.0 / ANSI C99</b> (<code>807 bytes</code> WASM en navegador · <code>~34 KB</code> binario nativo Win64/Linux sin dependencias). Detecta granjas de <b>follow-farming</b> evitando falsos positivos contra desarrolladores nuevos, repos privados (<code>0 repos</code>) y programadores activos, con cuarentena conductual de <b>5 días</b> (<code>localStorage</code> / <code>.db</code>) e insignia incrustable para cualquier perfil de GitHub.</i>
 </p>
 
 </div>
@@ -234,7 +257,8 @@ graph TD
 | System Layer / Capa | Technology Stack / Base | License Type / Licencia | Silicon Status / Estado | Metadata / Identificadores |
 | :--- | :--- | :--- | :--- | :--- |
 | **Microkernel Core** | C99 + Assembly x86_64 | Propietaria / Closed | 🟢 Booting & Operative | Pure Ring-0 (4-Level PML4, IDT/GDT nativa) |
-| **UPL+ Toolchain** | 7-Stage Pratt Parser | Private / Sovereign | 🟢 100% Tests Passed | 64KB Rigid Arena Allocators |
+| **UPL+ Toolchain** | 7-Stage Pratt Parser | GPLv3 / Sovereign | 🟢 v2.3.0 (`uplc audit`) | 64KB Arena Allocators + `own`/`lock_rank` |
+| **GH-Bot-Radar** | UPL+ / C99 + WebAssembly | Open Source (GPLv3) | 🟢 Live on `github.io` v1.1 | Anti-Bot & 5-Day Watchlist (`807 B` WASM) |
 | **MultiLang-ASM** | Universal ASM Processor | Registered / Open Spec | 🟢 Multi-idioma Activo | FPU fsincos & AVX2 Pipeline |
 | **NeuroCOBOL-V3.0** | Cognitive Logic Compiler | Registered / Registrada | 🟢 154 Langs Active | Safe Creative ID: `2609217054592` |
 | **Storage Engine** | GXNOX-v3.0 Micro-FS | Propietaria / Closed | 🟢 sub-20 µs Parity | Safe Creative ID: `2610197364465` |
