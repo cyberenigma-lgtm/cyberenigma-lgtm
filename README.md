@@ -35,8 +35,8 @@
 <!-- START_FOLLOWER -->
 <div align="center">
 
-> <img src="https://github.com/Noctyr-studio.png?size=64" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/> 🇪🇸 **¡Gracias por seguirme, [@Noctyr-studio](https://github.com/Noctyr-studio)!** 🤝<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 **Thank you for following me, [@Noctyr-studio](https://github.com/Noctyr-studio)!** 🤝
+> <img src="https://github.com/rafaelbmateus.png?size=64" width="32" height="32" style="border-radius: 50%; vertical-align: middle;"/> 🇪🇸 **¡Gracias por seguirme, [@rafaelbmateus](https://github.com/rafaelbmateus)!** 🤝<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 **Thank you for following me, [@rafaelbmateus](https://github.com/rafaelbmateus)!** 🤝
 
 </div>
 <!-- END_FOLLOWER -->
