@@ -21,7 +21,8 @@
   [![Execution](https://img.shields.io/badge/Execution-Zero_Host_Runtime-1B5E20?style=flat-square&logo=target&logoColor=white)](https://github.com/cyberenigma-lgtm)
   [![Interactive CV](https://img.shields.io/badge/Curriculum-Live_Interactive_CV-3B185F?style=flat-square&logo=html5&logoColor=white)](https://cyberenigma-lgtm.github.io/CV-Noxferion/)
   [![Live Web Demo](https://img.shields.io/badge/Live_Demo-WebAssembly_x86__64-00E5FF?style=flat-square&logo=googlechrome&logoColor=black)](https://cyberenigma-lgtm.github.io/neuro-os-live-demo/)
-  [![GH-Bot-Radar](https://img.shields.io/badge/GH--Bot--Radar-100%25_Authentic_Human_%7C_Scan_Followers-10b981?style=flat-square&logo=github&logoColor=white)](https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm)
+  [![GH-Bot-Radar](https://img.shields.io/badge/GH--Bot--Radar-Verified_Human_%7C_Scan_Followers-00E5FF?style=flat-square&logo=github&logoColor=white&labelColor=3b4046)](https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm)
+  [![GH-Bot-Radar Repo](https://img.shields.io/badge/Repo-gh--bot--radar-181717?style=flat-square&logo=github&logoColor=00E5FF)](https://github.com/cyberenigma-lgtm/gh-bot-radar)
   [![Followers](https://img.shields.io/github/followers/cyberenigma-lgtm?label=Followers&style=flat-square&logo=github&color=57D1E8&logoColor=white)](https://github.com/cyberenigma-lgtm?tab=followers)
 
   <br>
@@ -40,6 +41,23 @@
 
 </div>
 <!-- END_FOLLOWER -->
+
+  <br>
+
+  ### 🛡️ Auditoría Anti-Bots en Vivo // Live Follower Radar (WebAssembly)
+  <p align="center">
+    <a href="https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm" target="_blank" title="Pulsa para ver mi auditoría en vivo y escanear tus propios seguidores al instante">
+      <img src="assets/gh-bot-radar-pill.svg" alt="GH-Bot-Radar — Verified Human | Scan Followers" height="42"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/cyberenigma-lgtm/gh-bot-radar" target="_blank" title="Ir al repositorio oficial de GH-Bot-Radar (Código C99/UPL+, CLI nativa e insignia para tu perfil)">
+      <img src="assets/gh-bot-radar-repo-pill.svg" alt="GH-Bot-Radar Official Repository — CLI & WASM Source" height="42"/>
+    </a>
+  </p>
+  <p align="center">
+    <sub>🇪🇸 Pulsa la insignia cian para ver la auditoría en vivo y <b>escanear tus propios <i>followers</i> al instante</b> en el navegador, o entra al <a href="https://github.com/cyberenigma-lgtm/gh-bot-radar"><b>repositorio oficial ↗</b></a> para descargar la CLI nativa y añadir esta insignia a tu perfil.<br/>
+    🇬🇧 Click the cyan badge to view the live audit and <b>scan your own followers instantly</b> in-browser, or visit the <a href="https://github.com/cyberenigma-lgtm/gh-bot-radar"><b>official repository ↗</b></a> for the native CLI &amp; profile badge.</sub>
+  </p>
 
 </div>
 
@@ -132,11 +150,11 @@
   </a>
   <br><br>
   <a href="https://cyberenigma-lgtm.github.io/gh-bot-radar/?user=cyberenigma-lgtm" target="_blank">
-    <img src="https://img.shields.io/badge/ABRIR_RADAR_EN_VIVO-WEBASSEMBLY_807B-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir GH-Bot-Radar en Vivo"/>
+    <img src="assets/gh-bot-radar-pill.svg" alt="GH-Bot-Radar — Verified Human | Scan Followers" height="40"/>
   </a>
   &nbsp;
   <a href="https://github.com/cyberenigma-lgtm/gh-bot-radar" target="_blank">
-    <img src="https://img.shields.io/badge/REPOSITORIO_%26_CLI_NATIVO-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GH-Bot-Radar"/>
+    <img src="assets/gh-bot-radar-repo-pill.svg" alt="Repositorio Oficial GH-Bot-Radar" height="40"/>
   </a>
 </p>
 <p align="center">
